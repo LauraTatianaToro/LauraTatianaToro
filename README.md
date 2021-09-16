@@ -1,5 +1,6 @@
 ### About Laura Toro 🌸
 
+💻 MERN FullStack Developer
 🎓Fourth Year Hons. BSc. Computer Science <br>
 🎨 [Artist: @lauratoro.art](https://www.instagram.com/lauratoro.art/?hl=en)
 
