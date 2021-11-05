@@ -2,7 +2,7 @@
 
 💻 Aspiring MERN FullStack Developer <br>
 📱 Interested in: Java & Android App Development<br>
-💡 Familiar with: C Programming, Unix, BASH Scripting
+💡 Familiar with: C Programming, Unix, BASH Scripting <br>
 🎓Fourth Year Hons. BSc. Computer Science <br>
 🎨 [Artist: @lauratoro.art](https://www.instagram.com/lauratoro.art/?hl=en)
 
