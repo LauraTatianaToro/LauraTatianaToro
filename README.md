@@ -1,4 +1,4 @@
-### About Laura Toro 🌸 [www.lauratoro.art](https://www.lauratoro.art)
+### About Laura Toro 🌸 [https://lauratatianatoro.github.io/React-Online-Resume-LauraToro/](CLICK HERE FOR PORTFOLIO)
 
 💻 Aspiring MERN FullStack Developer <br>
 📱 Interested in: Java & Android App Development<br>
