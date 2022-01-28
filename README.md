@@ -1,4 +1,4 @@
-### About Laura Toro 🌸 [CLICK FOR MY PORTFOLIO](https://lauratatianatoro.github.io/Portfolio/)
+### About Laura Toro 🌸
 
 💻 Aspiring MERN FullStack Developer <br>
 📱 Interested in: Java & Android App Development<br>
